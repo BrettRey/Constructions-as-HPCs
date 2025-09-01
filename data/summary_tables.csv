@@ -1,0 +1,181 @@
+
+family_name,N,median_inventory,iqr_inventory
+(Unknown),103,32.0,16.0
+Abkhaz-Adyge,4,63.0,2.75
+Afro-Asiatic,139,44.0,15.0
+Ainu,2,17.0,0.0
+Algic,8,28.0,9.5
+Angan,1,21.0,0.0
+Araucanian,3,28.0,0.0
+Arawakan,58,26.0,7.0
+Arawan,6,21.5,3.25
+Athabaskan-Eyak-Tlingit,14,49.5,10.0
+Atlantic-Congo,479,39.0,13.0
+Austroasiatic,52,42.0,10.5
+Austronesian,131,25.0,8.0
+Aymaran,4,42.0,2.5
+Baining,1,22.0,0.0
+Barbacoan,9,26.0,2.0
+Blue Nile Mao,1,36.0,0.0
+Bookkeeping,4,32.5,15.0
+Boran,4,29.5,5.5
+Border,3,22.0,2.0
+Bororoan,3,22.0,1.0
+Bunaban,2,23.5,0.5
+Caddoan,3,29.0,3.0
+Cahuapanan,3,23.0,2.5
+Cariban,30,23.0,4.75
+Central Sudanic,25,45.0,7.0
+Chapacuran,3,21.0,1.5
+Chibchan,12,27.0,5.5
+Chicham,6,24.0,0.75
+Chimakuan,1,37.0,0.0
+Chiquitano,1,26.0,0.0
+Chocoan,7,33.0,4.0
+Chonan,3,35.0,3.0
+Chukotko-Kamchatkan,6,24.5,8.75
+Chumashan,1,44.0,0.0
+Cochimi-Yuman,3,34.0,2.0
+Dajuic,1,30.0,0.0
+Dizoid,1,30.0,0.0
+Dogon,3,42.0,2.5
+Dravidian,42,40.0,13.75
+East Strickland,1,18.0,0.0
+Eastern Daly,1,22.0,0.0
+Eastern Jebel,2,49.0,0.0
+Eleman,1,14.0,0.0
+Eskimo-Aleut,7,36.0,5.5
+Furan,1,30.0,0.0
+Garrwan,4,22.0,0.5
+Giimbiyu,3,23.0,0.0
+Great Andamanese,2,35.0,0.0
+Guahiboan,5,25.0,13.0
+Guaicuruan,10,28.0,8.0
+Gumuz,1,44.0,0.0
+Gunwinyguan,19,27.0,2.0
+Haida,2,50.0,0.0
+Harakmbut,1,33.0,0.0
+Heibanic,6,40.0,8.5
+Hibito-Cholon,1,20.0,0.0
+Hmong-Mien,4,52.5,8.25
+Huavean,2,29.0,0.0
+Huitotoan,5,26.0,14.0
+Ijoid,6,40.0,5.5
+Indo-European,192,44.5,14.0
+Iroquoian,5,22.0,10.0
+Iwaidjan Proper,7,24.0,0.0
+Japonic,4,32.5,16.5
+Jarawa-Onge,1,24.0,0.0
+Jarrakan,2,22.0,2.0
+Jicaquean,1,28.0,0.0
+Kadugli-Krongo,11,63.0,4.0
+Kakua-Nukak,3,26.0,1.0
+Kartvelian,6,36.0,2.75
+Kawesqar,3,24.0,0.0
+Keresan,1,51.0,0.0
+Khoe-Kwadi,3,33.0,6.0
+Kiowa-Tanoan,5,42.0,16.0
+Kiwaian,1,19.0,0.0
+Koiarian,1,16.0,0.0
+Kolopom,1,44.0,0.0
+Koman,5,28.0,6.0
+Konda-Yahadian,1,33.0,0.0
+Koreanic,2,48.0,0.0
+Kresh-Aja,2,52.0,4.0
+Kru,11,39.0,10.0
+Kuliak,3,28.0,9.5
+Kunimaipan,2,20.0,0.0
+Kxa,2,130.5,10.5
+Limilngan-Wulna,1,25.0,0.0
+Maban,2,37.0,8.0
+Maiduan,2,24.0,0.0
+Mande,54,39.5,13.75
+Mangarrayi-Maran,6,24.0,4.5
+Maningrida,5,26.0,1.0
+Marrku-Wurrugu,2,24.5,1.5
+Mataguayan,5,28.0,0.0
+Mayan,14,32.0,5.75
+Maybratic,1,16.0,0.0
+Mirndi,8,21.0,2.5
+Misumalpan,1,28.0,0.0
+Miwok-Costanoan,2,30.0,9.0
+Mixe-Zoque,7,29.0,6.5
+Mongolic-Khitan,16,36.0,7.75
+Muskogean,5,21.0,4.0
+Naduhup,4,34.5,2.0
+Nakh-Daghestanian,17,64.0,13.0
+Nambiquaran,6,29.5,12.75
+Narrow Talodi,5,27.0,9.0
+Ndu,3,24.0,1.0
+Nilotic,31,38.0,15.5
+Nimboranic,1,18.0,0.0
+Nivkh,3,44.0,0.0
+North Bougainville,1,11.0,0.0
+North Halmahera,2,24.0,1.0
+Northern Daly,2,19.0,0.0
+Nubian,2,45.0,0.0
+Nuclear Torricelli,6,22.0,1.5
+Nuclear Trans New Guinea,31,21.0,5.0
+Nuclear-Macro-Je,26,27.0,7.25
+Nyimang,2,25.5,0.5
+Nyulnyulan,11,20.0,5.0
+Otomanguean,20,38.0,17.5
+Palaihnihan,1,23.0,0.0
+Pama-Nyungan,324,23.0,5.0
+Pano-Tacanan,34,22.0,2.75
+Peba-Yagua,3,23.0,2.5
+Pidgin,1,36.0,0.0
+Pomoan,3,38.0,0.5
+Puri-Coroado,1,18.0,0.0
+Quechuan,27,25.0,7.0
+Sahaptian,2,36.0,0.0
+Saharan,5,35.0,2.0
+Saliban,3,32.0,1.0
+Salishan,11,43.0,5.0
+Senagi,1,17.0,0.0
+Sentanic,2,17.0,0.0
+Sepik,8,19.0,10.0
+Shastan,1,21.0,0.0
+Sino-Tibetan,135,48.0,16.5
+Siouan,4,29.5,13.75
+Sko,3,23.0,5.0
+Songhay,7,48.0,5.0
+South Bird's Head,1,18.0,0.0
+South Bougainville,2,18.0,0.0
+South Omotic,3,36.0,19.0
+Southern Daly,4,28.0,0.75
+Speech Register,1,32.0,0.0
+Surmic,6,34.0,6.75
+Ta-Ne-Omotic,12,38.0,18.0
+Tai-Kadai,25,38.0,11.0
+Tamaic,1,30.0,0.0
+Tangkic,4,24.0,0.25
+Tarascan,2,39.0,0.0
+Teberan,1,23.0,0.0
+Temeinic,2,36.0,11.0
+Ticuna-Yuri,2,38.0,0.0
+Timor-Alor-Pantar,2,34.0,6.0
+Totonacan,4,30.0,8.5
+Tsimshian,2,41.5,0.5
+Tucanoan,23,23.0,5.0
+Tungusic,7,29.0,9.0
+Tupian,61,26.0,6.0
+Turkic,32,39.0,6.75
+Tuu,1,161.0,0.0
+Unclassifiable,1,21.0,0.0
+Uralic,46,37.0,9.5
+Uru-Chipaya,2,42.0,9.0
+Uto-Aztecan,18,30.0,11.75
+Wakashan,4,51.0,8.0
+Western Daly,6,27.5,7.75
+Wintuan,1,35.0,0.0
+Worrorran,9,25.0,1.0
+Yangmanic,2,22.0,0.0
+Yanomamic,11,33.0,2.5
+Yareban,1,18.0,0.0
+Yawa-Saweru,1,19.0,0.0
+Yeniseian,2,32.0,0.0
+Yukaghir,5,39.0,3.0
+Yuki-Wappo,2,32.5,2.5
+Zamucoan,2,33.5,3.5
+Zaparoan,5,25.0,7.0
