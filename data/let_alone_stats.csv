@@ -1,0 +1,4 @@
+
+corpus,n_tokens,parallelism_rate,licensing_rate,top_y_heads
+gum,12,0.25,0.5,y0:46.08; y11:46.08; y6:46.08; y4:46.08; y1:46.08
+ewt,15,0.2,0.4,y13:67.98; y14:67.98; y12:67.98

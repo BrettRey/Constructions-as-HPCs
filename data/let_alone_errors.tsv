@@ -1,0 +1,4 @@
+
+corpus	sent_id	label	prediction
+gum	syn-gum-0	1	0
+ewt	syn-ewt-1	0	1
